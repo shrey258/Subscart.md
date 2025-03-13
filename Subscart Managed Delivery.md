@@ -231,3 +231,293 @@
 </div>
 
 </div>
+
+---
+
+### ##Step 7: Setting pause days
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Pause Subscription Configuration</strong> screen allows vendors to set a maximum number of days for which customers can pause their subscription and select applicable outlets.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Maximum No. of Days Input:</strong> Vendors can specify the maximum duration (in days) a subscription can be paused.</li>
+  <li><strong>Outlet Selection:</strong> Vendors can select one or multiple outlets where the pause functionality applies and Subscribers can buy subscriptions from.</li>
+</ul>
+
+<p><strong>Outlet Selection Behavior:</strong></p>
+
+<p>Vendors can choose specific outlets where customers are allowed to pause their subscriptions and take deliveries from.</p>
+
+<ul>
+  <li>A selected outlet is marked with a <strong>checked checkbox</strong>.</li>
+  <li>Unselected outlets remain unchecked and do not support subscription pauses.</li>
+</ul>
+
+<p><strong>Action Buttons:</strong></p>
+
+<ul>
+  <li><strong>Save:</strong> Confirms and saves the pause duration and selected outlets.</li>
+  <li>After this it's sent for admin approval</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="pausedays.png" alt="Pause Subscription Configuration Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+---
+
+### Step 2: Customer Buys Subscription
+
+### ##Step 1: Discovering Subscriptions
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Subscription Discovery</strong> screen allows customers to explore available subscription options from different vendors.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Vendor Details:</strong> Displays vendor name, location, and number of subscriptions sold.</li>
+  <li><strong>Rating System:</strong> Customers can see the vendor's rating, represented by a star-based system.</li>
+  <li><strong>Categories:</strong> Customers can filter subscriptions based on categories such as <strong>Picks for you</strong> and <strong>Healthy Soups</strong>.</li>
+  <li><strong>Subscription Plans:</strong> Displays available meal subscription plans with details like:
+    <ul>
+      <li>Meal frequency (e.g., <strong>1 meal per day</strong>).</li>
+      <li>Price (e.g., <strong>OMR 30</strong>).</li>
+      <li>Items included in the plan.</li>
+      <li>Number of times the plan has been sold.</li>
+      <li>Customer ratings for the subscription.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Action Buttons:</strong></p>
+
+<ul>
+  <li><strong>Buy Subscription:</strong> Allows customers to proceed with purchasing the selected subscription plan.</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="customer_discover.png" alt="Subscription Discovery Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+--- 
+
+### ##Step 2: Customer Buys Subscription
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Subscription Details</strong> screen provides customers with detailed information about a selected meal subscription.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Subscription Plan:</strong> Displays the name of the plan (e.g., <strong>1 meal per day</strong>).</li>
+  <li><strong>Pricing:</strong> Shows the cost of the plan (e.g., <strong>OMR 1.5</strong> per meal).</li>
+  <li><strong>Delivery Schedule:</strong> Customers can choose the days they want to receive meals (e.g., Sunday to Saturday selection).</li>
+  <li><strong>Subscription Properties:</strong></li>
+  <ul>
+    <li><strong>Product:</strong> Indicates whether the subscription is flexible.</li>
+    <li><strong>Delivery:</strong> Specifies if delivery options are flexible.</li>
+    <li><strong>Delivery By:</strong> Defines whether deliveries are managed by the vendor or <strong>Subscart</strong>.</li>
+    <li><strong>Delivery Mode:</strong> States if the subscription is <strong>Delivery Only</strong>.</li>
+    <li><strong>Lead Time:</strong> Shows the time required to process the order (e.g., <strong>1 Hour</strong>).</li>
+    <li><strong>Maximum Pause Time:</strong> Displays the number of days a customer can pause their subscription (e.g., <strong>1 day</strong>).</li>
+  </ul>
+</ul>
+
+<p><strong>Action Button:</strong></p>
+
+<ul>
+  <li><strong>Buy Now (OMR 1.5):</strong> Allows customers to purchase the subscription immediately.</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="customer_subscription_details.png" alt="Subscription Details Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+---
+
+### ##Step 3: Customer Select Delivery Location
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Delivery Location Selection</strong> screen allows customers to choose or update their preferred delivery address.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Location Overview:</strong> Displays a map with pinned locations to help customers visualize their delivery address.</li>
+  <li><strong>Address Details:</strong> Provides a detailed description of the selected location, including address, landmarks, and directions.</li>
+  <li><strong>Customer Delivery Location:</strong> Shows the saved delivery address (e.g., <strong>Home - 607, Pyramid Urban Homes, Sector 86, Gurugram, India</strong>).</li>
+  <li><strong>Change Option:</strong> Allows customers to update their delivery address if needed.</li>
+</ul>
+
+<p><strong>Action Button:</strong></p>
+
+<ul>
+  <li><strong>Confirm:</strong> Finalizes the selected delivery location and proceeds with the order.</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="delivery_location.png" alt="Delivery Location Selection Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+---
+
+Step 4: Customer Confirm Subscription
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Subscription Price Breakdown</strong> screen allows customers to review their subscription details, additional choices, and the total price before proceeding with the purchase.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Subscription Plan:</strong> Displays the selected subscription type (e.g., <strong>Subscart Managed Delivery Testing</strong>).</li>
+  <li><strong>Duration & Price:</strong> Shows the subscription duration (e.g., <strong>1 day</strong>) and the base price (e.g., <strong>OMR 30</strong>).</li>
+  <li><strong>Your Choice Section:</strong> Allows customers to add extra items to their subscription (e.g., <strong>Coffee - OMR 12</strong>).</li>
+  <li><strong>Quantity Selector:</strong> Customers can increase or decrease the quantity of optional add-ons.</li>
+  <li><strong>Price Breakdown:</strong>
+    <ul>
+      <li><strong>Subscription Price:</strong> Displays the base subscription cost.</li>
+      <li><strong>Choice Price:</strong> Shows the additional cost of selected extras.</li>
+      <li><strong>Total Price:</strong> Reflects the final amount payable.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Action Button:</strong></p>
+
+<ul>
+  <li><strong>Buy Now:</strong> Confirms the selection and proceeds to payment.</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="subscription_price_breakup.png" alt="Subscription Price Breakdown Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+---
+
+### ##Step 4: Customer Confirms Timings
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Set Schedule & Delivery Timing</strong> screen allows customers to select their preferred delivery date and time slot for their subscription orders, ensuring flexibility and convenience.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Delivery Timing Selection:</strong>
+    <ul>
+      <li>Customers can pick a preferred delivery time from the available slots.</li>
+      <li>Time slots are displayed as easy-to-select buttons.</li>
+    </ul>
+  </li>
+  <li><strong>Checkout Summary:</strong>
+    <ul>
+      <li>Displays the <strong>total price</strong> before proceeding to checkout.</li>
+      <li>Example: <strong>OMR 20.000</strong> is shown at the bottom.</li>
+    </ul>
+  </li>
+</ul>
+
+<p><strong>Action Button:</strong></p>
+
+<ul>
+  <li><strong>Proceed to Checkout:</strong> Finalizes the selection and moves the user to the payment process.</li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="delivery_timings.png" alt="Set Schedule & Delivery Timing Screen" style="max-width: 100%;">
+</div>
+
+</div>
+
+---
+
+### Step 3: Staff Gets the Subscription Orders
+
+### ##Step 1: Staff Gets the Subscription Orders
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>The <strong>Staff Order Request & Status Update</strong> screen allows staff members to review incoming orders and take appropriate action within the designated lead time before the request expires.</p>
+
+<p><strong>Key Features:</strong></p>
+
+<ul>
+  <li><strong>Order Details:</strong>
+    <ul>
+      <li>Displays the <strong>pickup address</strong> and <strong>order ID</strong> for easy identification.</li>
+      <li>Shows the ordered item details, including name (e.g., <strong>Juicy Cherry Tomato Steak Pizza</strong>), calorie count, and macronutrient breakdown.</li>
+    </ul>
+  </li>
+  <li><strong>Action Buttons:</strong>
+    <ul>
+      <li><strong>Accept:</strong> The staff confirms the order and proceeds with preparation.</li>
+      <li><strong>Decline:</strong> The staff rejects the order if they are unable to fulfill it.</li>
+    </ul>
+  </li>
+  <li><strong>Lead Time Notification:</strong>
+    <ul>
+      <li>Staff receives a notification within the lead time set by the vendor.</li>
+      <li>They must respond before the lead expires.</li>
+    </ul>
+  </li>
+  <li><strong>Status Update Requirement:</strong>
+    <ul>
+      <li>Before starting preparation, staff must use the <strong>"Change Status"</strong> option.</li>
+      <li>They should mark the order as <strong>"Preparing"</strong> to update its status in the system.</li>
+      <li>After marking the order as <strong>"Preparing"</strong>, the order will be moved to the <strong>"Preparing"</strong> section.</li>
+    </ul>
+  </li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <img src="staff_resquest.png" alt="Staff Order Request Screen" style="max-width: 100%;">
+  <img src="staff_request_status.png" alt="Staff Order Request Screen" style="max-width: 100%;">
+</div>
+
+</div>
