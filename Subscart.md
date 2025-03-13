@@ -1,14 +1,14 @@
 <div align="center"> 
 <img src="/api/placeholder/800/120" alt="Subscart Logo Banner" /> 
 
-# 🍽️ SUBSCART DOCUMENTATION
+# SUBSCART DOCUMENTATION
 
 Version 1.0 | March 2025
 </div>
 
 <div style="page-break-after: always;"></div>
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Overview](#overview)
 2. [Vendor Module](#1-vendor-module)
@@ -23,7 +23,7 @@ Version 1.0 | March 2025
 
 <div align="center">
 
-### 🎯 Subscart Platform
+### Subscart Platform
 
 ![[platform_overview.jpg]]
 
@@ -86,8 +86,8 @@ The subscription economy is expanding rapidly, but managing subscriptions remain
 
 <table>
 <tr>
-<th align="center">👨‍🍳 Vendor Registration</th>
-<th align="center">👥 Customer Registration</th>
+<th align="center">Vendor Registration</th>
+<th align="center">Customer Registration</th>
 </tr>
 <tr>
 <td>
@@ -128,7 +128,7 @@ graph LR
 
 <div align="center">
 
-#### 🔄 Platform Roles
+#### Platform Roles
 
 ![[stakeholders.jpg]]
 
@@ -140,7 +140,7 @@ graph LR
 <th align="center">Responsibilities</th>
 </tr>
 <tr>
-<td align="center">👨‍🍳 Vendors</td>
+<td align="center">Vendors</td>
 <td>
 • Create and manage subscription plans<br>
 • Handle deliveries and payments<br>
@@ -148,7 +148,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">👥 Customers</td>
+<td align="center">Customers</td>
 <td>
 • Browse and subscribe to plans<br>
 • Customize delivery preferences<br>
@@ -156,7 +156,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">👨‍🔧 Staff</td>
+<td align="center">Staff</td>
 <td>
 • Oversee order preparation<br>
 • Manage inventory<br>
@@ -164,7 +164,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">🚗 Drivers</td>
+<td align="center">Drivers</td>
 <td>
 • Handle timely deliveries<br>
 • Follow optimized routes<br>
@@ -177,7 +177,7 @@ graph LR
 
 <div align="center">
 
-#### ✨ Key Benefits
+#### Key Benefits
 
 ![[advantages.jpg]]
 
@@ -189,7 +189,7 @@ graph LR
 <th align="center">Benefits</th>
 </tr>
 <tr>
-<td align="center">✅ Vendor<br>Management</td>
+<td align="center">Vendor Management</td>
 <td>
 • Effortless subscription creation<br>
 • Automated payment processing<br>
@@ -197,7 +197,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">✅ Customer<br>Experience</td>
+<td align="center">Customer Experience</td>
 <td>
 • Flexible subscription control<br>
 • Easy plan modifications<br>
@@ -205,7 +205,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">✅ Optimized<br>Logistics</td>
+<td align="center">Optimized Logistics</td>
 <td>
 • Streamlined order fulfillment<br>
 • Real-time delivery updates<br>
@@ -213,7 +213,7 @@ graph LR
 </td>
 </tr>
 <tr>
-<td align="center">✅ Business<br>Scalability</td>
+<td align="center">Business Scalability</td>
 <td>
 • Cost-effective solution<br>
 • Market expansion tools<br>
@@ -228,7 +228,7 @@ graph LR
 
 <div align="center">
 
-### 🏪 Vendor Management System
+### Vendor Management System
 
 </div>
 
@@ -239,8 +239,8 @@ The vendor module empowers food service providers to create, manage, and monitor
 
 <table>
 <tr>
-<th width="50%" align="center">📋 Fixed Subscription</th>
-<th width="50%" align="center">🔄 Flexible Subscription</th>
+<th width="50%" align="center">Fixed Subscription</th>
+<th width="50%" align="center">Flexible Subscription</th>
 </tr>
 <tr>
 <td>
@@ -326,15 +326,15 @@ The vendor module empowers food service providers to create, manage, and monitor
 <th width="80%">Description</th>
 </tr>
 <tr>
-<td align="center">🚚 Delivery</td>
+<td align="center">Delivery</td>
 <td>Using either Subscart's delivery service (0.5 OMR per delivery) or vendor's own delivery system</td>
 </tr>
 <tr>
-<td align="center">🏬 Pickup</td>
+<td align="center">Pickup</td>
 <td>Customers collect their meals from the vendor's physical location</td>
 </tr>
 <tr>
-<td align="center">🔄 Pickup & Delivery</td>
+<td align="center">Pickup & Delivery</td>
 <td>Customers can choose between pickup or delivery for maximum flexibility</td>
 </tr>
 </table>
@@ -343,7 +343,7 @@ The vendor module empowers food service providers to create, manage, and monitor
 
 <div align="center">
 
-#### 🚚 Comprehensive Delivery Solutions
+#### Comprehensive Delivery Solutions
 
 </div>
 
@@ -355,7 +355,7 @@ Each delivery option follows a specific workflow designed to ensure reliable and
 <th width="75%">Process Description</th>
 </tr>
 <tr>
-<td align="center">📦 Subscription<br>Delivery</td>
+<td align="center">Subscription Delivery</td>
 <td>
 <ol>
 <li>Customer subscribes to meal plan</li>
@@ -368,7 +368,7 @@ Each delivery option follows a specific workflow designed to ensure reliable and
 </td>
 </tr>
 <tr>
-<td align="center">🏪 Vendor<br>Delivery</td>
+<td align="center">Vendor Delivery</td>
 <td>
 <ol>
 <li>Customer places order with vendor</li>
@@ -381,7 +381,7 @@ Each delivery option follows a specific workflow designed to ensure reliable and
 </td>
 </tr>
 <tr>
-<td align="center">🛍️ Pickup</td>
+<td align="center">Pickup</td>
 <td>
 <ol>
 <li>Customer selects "Pickup" option</li>
@@ -395,7 +395,7 @@ Each delivery option follows a specific workflow designed to ensure reliable and
 </td>
 </tr>
 <tr>
-<td align="center">🔄 Pickup &<br>Delivery</td>
+<td align="center">Pickup & Delivery</td>
 <td>
 <ol>
 <li>Customer chooses method</li>
@@ -409,7 +409,7 @@ Each delivery option follows a specific workflow designed to ensure reliable and
 </td>
 </tr>
 <tr>
-<td align="center">📅 Subscription<br>P&D</td>
+<td align="center">Subscription P&D</td>
 <td>
 <ol>
 <li>Customer creates subscription</li>
@@ -532,7 +532,7 @@ The customer module provides a streamlined interface for browsing, purchasing, a
 
 <div align="center">
 
-### 👨‍🔧 Staff Operations
+### Staff Operations
 
 </div>
 
@@ -546,23 +546,23 @@ The dedicated Staff App streamlines meal preparation workflows for vendor employ
 <th width="75%">Description</th>
 </tr>
 <tr>
-<td align="center">📊 Order<br>Dashboard</td>
+<td align="center">Order Dashboard</td>
 <td>Comprehensive view of all upcoming orders sorted by preparation deadline</td>
 </tr>
 <tr>
-<td align="center">📅 Calendar<br>Integration</td>
+<td align="center">Calendar Integration</td>
 <td>Visual calendar showing all scheduled preparations to facilitate resource planning</td>
 </tr>
 <tr>
-<td align="center">📝 Preparation<br>Tracking</td>
+<td align="center">Preparation Tracking</td>
 <td>Mark orders as "In Progress" and "Prepared" to maintain workflow visibility</td>
 </tr>
 <tr>
-<td align="center">🔔 Notification<br>System</td>
+<td align="center">Notification System</td>
 <td>Automated alerts for upcoming preparation deadlines and special instructions</td>
 </tr>
 <tr>
-<td align="center">📦 Ingredient<br>Management</td>
+<td align="center">Ingredient Management</td>
 <td>View required ingredients for upcoming orders to ensure adequate stock</td>
 </tr>
 </table>
@@ -592,7 +592,7 @@ graph LR
 
 <div align="center">
 
-### 🚗 Delivery Operations
+### Delivery Operations
 
 </div>
 
@@ -608,32 +608,32 @@ The Delivery Driver App manages the final step in the subscription fulfillment p
 </tr>
 <tr>
 <td align="center">1️⃣</td>
-<td align="center">📱 Notification</td>
+<td align="center">Notification</td>
 <td>Driver receives notification when staff marks an order as prepared</td>
 </tr>
 <tr>
 <td align="center">2️⃣</td>
-<td align="center">✅ Acceptance</td>
+<td align="center">Acceptance</td>
 <td>Driver reviews order details and accepts the delivery task</td>
 </tr>
 <tr>
 <td align="center">3️⃣</td>
-<td align="center">🏪 Pickup</td>
+<td align="center">Pickup</td>
 <td>Driver navigates to vendor location and confirms pickup</td>
 </tr>
 <tr>
 <td align="center">4️⃣</td>
-<td align="center">🚚 Delivery</td>
+<td align="center">Delivery</td>
 <td>Driver delivers meal to customer location using optimal route</td>
 </tr>
 <tr>
 <td align="center">5️⃣</td>
-<td align="center">✔️ Completion</td>
+<td align="center">Completion</td>
 <td>Driver marks delivery as complete after customer receipt</td>
 </tr>
 <tr>
 <td align="center">6️⃣</td>
-<td align="center">💰 Incentive</td>
+<td align="center">Incentive</td>
 <td>Compensation is added to driver's earnings account</td>
 </tr>
 </table>
@@ -669,6 +669,7 @@ graph TD
     style C fill:#fff8e1,stroke:#ffa000,stroke-width:2px
     style D fill:#fce4ec,stroke:#d81b60,stroke-width:2px
     style E fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style F fill:#e8eaf6,stroke:#3f51b5,stroke-width:2px
 ```
 
 ### Key Features
@@ -679,23 +680,23 @@ graph TD
 <th width="75%">Description</th>
 </tr>
 <tr>
-<td align="center">📱 Real-time<br>Updates</td>
+<td align="center">Real-time Updates</td>
 <td>Instant notifications for new orders, changes, and delivery status updates</td>
 </tr>
 <tr>
-<td align="center">🗺️ Smart<br>Navigation</td>
+<td align="center">Smart Navigation</td>
 <td>Optimized routing with real-time traffic updates and turn-by-turn directions</td>
 </tr>
 <tr>
-<td align="center">💰 Earnings<br>Tracker</td>
+<td align="center">Earnings Tracker</td>
 <td>Detailed breakdown of deliveries, earnings, and incentives</td>
 </tr>
 <tr>
-<td align="center">📊 Performance<br>Metrics</td>
+<td align="center">Performance Metrics</td>
 <td>Track delivery times, customer ratings, and completion rates</td>
 </tr>
 <tr>
-<td align="center">🆘 Support<br>System</td>
+<td align="center">Support System</td>
 <td>24/7 access to customer service and emergency assistance</td>
 </tr>
 </table>
@@ -708,7 +709,7 @@ graph TD
 
 <div align="center">
 
-### 🎯 System Overview
+### System Overview
 
 </div>
 
@@ -722,7 +723,7 @@ Subscart provides a comprehensive solution for subscription-based meal delivery,
 <th width="75%">Core Features</th>
 </tr>
 <tr>
-<td align="center">🏪 Vendor</td>
+<td align="center">Vendor</td>
 <td>
 • Subscription plan creation<br>
 • Delivery method configuration<br>
@@ -730,7 +731,7 @@ Subscart provides a comprehensive solution for subscription-based meal delivery,
 </td>
 </tr>
 <tr>
-<td align="center">👥 Customer</td>
+<td align="center">Customer</td>
 <td>
 • Plan browsing and subscription<br>
 • Delivery preferences<br>
@@ -738,7 +739,7 @@ Subscart provides a comprehensive solution for subscription-based meal delivery,
 </td>
 </tr>
 <tr>
-<td align="center">👨‍🔧 Staff</td>
+<td align="center">Staff</td>
 <td>
 • Order preparation<br>
 • Inventory management<br>
@@ -746,7 +747,7 @@ Subscart provides a comprehensive solution for subscription-based meal delivery,
 </td>
 </tr>
 <tr>
-<td align="center">🚗 Driver</td>
+<td align="center">Driver</td>
 <td>
 • Real-time order tracking<br>
 • Route optimization<br>
@@ -777,9 +778,9 @@ graph TD
 
 <table>
 <tr>
-<th width="33%" align="center">📈 Business</th>
-<th width="33%" align="center">🤝 Customer</th>
-<th width="33%" align="center">🔧 Operations</th>
+<th width="33%" align="center">Business</th>
+<th width="33%" align="center">Customer</th>
+<th width="33%" align="center">Operations</th>
 </tr>
 <tr>
 <td align="center">
@@ -808,16 +809,16 @@ graph TD
 
 <div align="center">
 
-#### 🔄 End-to-End Flow
+#### End-to-End Flow
 
 </div>
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'primaryBorderColor': '#0288d1', 'secondaryColor': '#f3e5f5', 'secondaryBorderColor': '#7b1fa2'}}}%%
 graph LR
-    A[Vendor Creates Plan] --> B[Customer Subscribes]
-    B --> C[Staff Prepares]
-    C --> D[Driver Delivers]
+    A[Vendors create plans] --> B[Customers subscribe]
+    B --> C[Staff prepare meals]
+    C --> D[Drivers deliver orders]
     D --> E[Customer Receives]
     E --> F[Cycle Repeats]
     F --> B
@@ -839,22 +840,22 @@ graph LR
 <th width="20%" align="center">Progress</th>
 </tr>
 <tr>
-<td align="center">🏪 Vendor Module</td>
+<td align="center">Vendor Module</td>
 <td>Core functionality complete, testing ongoing</td>
 <td align="center">90%</td>
 </tr>
 <tr>
-<td align="center">👥 Customer Module</td>
+<td align="center">Customer Module</td>
 <td>All features implemented and validated</td>
 <td align="center">100%</td>
 </tr>
 <tr>
-<td align="center">👨‍🔧 Staff Module</td>
+<td align="center">Staff Module</td>
 <td>Final testing and optimization in progress</td>
 <td align="center">85%</td>
 </tr>
 <tr>
-<td align="center">🚗 Driver Module</td>
+<td align="center">Driver Module</td>
 <td>Route optimization enhancements pending</td>
 <td align="center">95%</td>
 </tr>
@@ -864,8 +865,141 @@ graph LR
 
 ---
 
-### 🌟 Ready for Launch
+### Ready for Launch
 
 The Subscart platform is now prepared to revolutionize subscription-based meal delivery services.
 
 </div>
+
+### Subscription Delivery
+
+<div align="center">
+
+#### Managed Delivery System
+
+![[subscription_delivery.jpg]]
+
+</div>
+
+Our flagship delivery method that provides end-to-end subscription management. For detailed steps on creating and managing subscriptions, see [[Subscart Managed Delivery]].
+
+<table>
+<tr>
+<th align="center">Feature</th>
+<th align="center">Description</th>
+</tr>
+<tr>
+<td align="center">Automated Scheduling</td>
+<td>
+• Regular delivery slots<br>
+• Flexible timing options<br>
+• Advance scheduling
+</td>
+</tr>
+<tr>
+<td align="center">Mobile Management</td>
+<td>
+• Easy subscription setup<br>
+• Real-time tracking<br>
+• Status updates
+</td>
+</tr>
+<tr>
+<td align="center">Vendor Controls</td>
+<td>
+• Delivery zone setup<br>
+• Lead time configuration<br>
+• Pause management
+</td>
+</tr>
+<tr>
+<td align="center">Customer Features</td>
+<td>
+• Flexible modifications<br>
+• Delivery preferences<br>
+• Order history
+</td>
+</tr>
+</table>
+
+### Process Flow
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#e1f5fe', 'primaryBorderColor': '#0288d1', 'secondaryColor': '#f3e5f5', 'secondaryBorderColor': '#7b1fa2'}}}%%
+graph TD
+    A[Subscription Setup] --> B[Vendor Configuration]
+    B --> C[Admin Approval]
+    C --> D[Customer Access]
+    
+    D --> E[Browse & Subscribe]
+    E --> F[Select Options]
+    F --> G[Choose Schedule]
+    
+    G --> H[Order Processing]
+    H --> I[Staff Preparation]
+    I --> J[Driver Assignment]
+    
+    J --> K[Delivery]
+    K --> L[Customer Receipt]
+    L --> M[Next Cycle]
+    M --> H
+    
+    style A fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+    style B fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    style C fill:#fff8e1,stroke:#ffa000,stroke-width:2px
+    style D fill:#fce4ec,stroke:#d81b60,stroke-width:2px
+    style E fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style F fill:#e8eaf6,stroke:#3f51b5,stroke-width:2px
+    style G fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+    style H fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
+    style I fill:#fff8e1,stroke:#ffa000,stroke-width:2px
+    style J fill:#fce4ec,stroke:#d81b60,stroke-width:2px
+    style K fill:#f3e5f5,stroke:#7b1fa2,stroke-width:2px
+    style L fill:#e8eaf6,stroke:#3f51b5,stroke-width:2px
+    style M fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
+```
+
+### Implementation Details
+
+<table>
+<tr>
+<th align="center">Phase</th>
+<th align="center">Actions</th>
+</tr>
+<tr>
+<td align="center">Setup</td>
+<td>
+• Vendor creates subscription plan<br>
+• Configures delivery options<br>
+• Sets pricing and schedules
+</td>
+</tr>
+<tr>
+<td align="center">Approval</td>
+<td>
+• Admin reviews setup<br>
+• Validates configurations<br>
+• Activates subscription
+</td>
+</tr>
+<tr>
+<td align="center">Access</td>
+<td>
+• Customers view plans<br>
+• Select preferences<br>
+• Choose delivery slots
+</td>
+</tr>
+<tr>
+<td align="center">Cycle</td>
+<td>
+• Automated order creation<br>
+• Staff notification<br>
+• Delivery assignment
+</td>
+</tr>
+</table>
+
+For detailed mobile app workflows and step-by-step guides, refer to [[Subscart Managed Delivery]].
+
+<div style="page-break-after: always;"></div>
