@@ -1,5 +1,7 @@
 ### Step 1: Subscription Creation by Vendor
 
+<div style="page-break-after: always;"></div>
+
 ### ##Step 1: Order Placement
 
 <div style="display: flex; align-items: flex-start;">
@@ -7,6 +9,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>The <strong>Order Placement</strong> screen allows vendors to add new subscription products by filling in the necessary details.</p>
+
+<br>
 
 <p>Below are the key fields in the form:</p>
 
@@ -24,6 +28,8 @@
   <li><strong>Payment Refund Privacy Policy</strong>: A mandatory section requiring the vendor to acknowledge the refund policy before proceeding.</li>
 </ul>
 
+<br>
+
 <p>Once all details are entered, the vendor clicks the <strong>Next</strong> button to proceed.</p>
 
 </div>
@@ -36,6 +42,7 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -47,6 +54,8 @@
 
 <p>The <strong>Edit Subscription Product</strong> screen allows vendors to modify product details in an ongoing subscription. This screen helps define the delivery frequency and total duration of the subscription.</p>
 
+<br>
+
 <p><strong>Form Fields:</strong></p>
 
 <ul>
@@ -55,6 +64,8 @@
   <li><strong>Number of Days:</strong> A numeric input field indicating the number of days one cycle of Subscription Orders.</li>
   <li><strong>Note:</strong> A disclaimer at the bottom states that the vendor cannot edit the number of products per day and the total subscription duration.</li>
 </ul>
+
+<br>
 
 <p>At the bottom, there are two action buttons:</p>
 
@@ -72,6 +83,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 3: Setting up the products for each days
@@ -82,6 +95,8 @@
 
 <p>The <strong>Edit Subscription Product - Make Schedule</strong> screen allows vendors to schedule specific products for each day of the subscription plan.</p>
 
+<br>
+
 <p><strong>Form Fields:</strong></p>
 
 <ul>
@@ -91,6 +106,8 @@
   <li><strong>Product 2:</strong> A dropdown menu where vendors can select the second product for the selected day. The chosen product in this image is <em>Fresh Juices - Super Green Detox Juice</em>.</li>
   <li><strong>Swap Option (Product 2):</strong> An additional field that allows vendors to specify an alternative product.</li>
 </ul>
+
+<br>
 
 <p><strong>Action Buttons:</strong></p>
 
@@ -108,6 +125,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 4: Setting up the validation and add on for the products.
@@ -118,6 +137,8 @@
 
 <p>The <strong>Add New Subscription Product</strong> screen enables vendors to create and customize subscription offerings, allowing flexible pricing and optional add-ons.</p>
 
+<br>
+
 <p><strong>Form Fields:</strong></p>
 
 <ul>
@@ -126,6 +147,8 @@
   <li><strong>Add Variations:</strong> Allows vendors to create multiple pricing or duration options.</li>
   <li><strong>Remove:</strong> Deletes the variation if no longer needed.</li>
 </ul>
+
+<br>
 
 <p><strong>Choice Group Details:</strong></p>
 
@@ -136,6 +159,8 @@
   <li><strong>Minimum No. of Choices:</strong> The minimum number of selections required (e.g., <strong>0</strong>, meaning optional).</li>
   <li><strong>Maximum No. of Choices:</strong> The maximum number of selections allowed (e.g., <strong>3</strong>, meaning a customer can choose up to three options).</li>
 </ul>
+
+<br>
 
 <p>Vendors can create multiple <strong>Choice Groups</strong> for further customization, including side dishes, toppings, or combo sets.</p>
 
@@ -158,6 +183,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 5: Choosing Delivery Type
@@ -168,6 +195,8 @@
 
 <p>The <strong>Give Customer Options</strong> popup allows vendors to specify how customers can receive their subscription products.</p>
 
+<br>
+
 <p><strong>Options Available:</strong></p>
 
 <ul>
@@ -175,6 +204,8 @@
   <li><strong>Pick up:</strong> Customers can collect their orders from the vendor's location.</li>
   <li><strong>Pick up & Delivery:</strong> A flexible option allowing both pick-up and delivery to the customer.</li>
 </ul>
+
+<br>
 
 <p><strong>Delivery Management Options:</strong></p>
 
@@ -197,6 +228,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Vendor Managed Delivery Responsibilities:</strong></p>
 
 <ul>
@@ -205,6 +238,8 @@
   <li>Handling delivery tracking and customer communication</li>
   <li>Managing delivery-related issues and customer support</li>
 </ul>
+
+<br>
 
 <p><strong>Action Buttons:</strong></p>
 
@@ -226,6 +261,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 5.1: Setting Up Delivery Time Slots
@@ -235,6 +272,8 @@
 <div style="width: 100%; margin-bottom: 20px;">
 
 <p>Before customers can select delivery times, vendors must configure their available time slots. This is done through the <strong>Delivery and Timeslot</strong> section in the vendor's management interface:</p>
+
+<br>
 
 <p><strong>Time Slot Configuration:</strong></p>
 
@@ -264,6 +303,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Important Notes:</strong></p>
 
 <ul>
@@ -286,6 +327,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 6: Setting up the lead time
@@ -295,6 +338,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>The <strong>Lead Time Setup</strong> screen allows vendors to configure important timing parameters for their subscription service.</p>
+
+<br>
 
 <p><strong>Form Fields:</strong></p>
 
@@ -327,6 +372,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Additional Settings:</strong></p>
 
 <ul>
@@ -334,6 +381,8 @@
   <li><strong>Outlet Selection:</strong> Choose which outlets will offer this subscription plan</li>
   <li><strong>Delivery Zones:</strong> If managing own delivery, specify the areas where delivery service is available</li>
 </ul>
+
+<br>
 
 <p><strong>Subscription Pause Control:</strong></p>
 
@@ -355,6 +404,8 @@
     </ul>
   </li>
 </ul>
+
+<br>
 
 <p><strong>Subscription Pause Configuration:</strong></p>
 
@@ -385,6 +436,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Example Outlet Display:</strong></p>
 
 <ul>
@@ -392,6 +445,8 @@
   <li>Checkbox selection for each outlet</li>
   <li>Displays total number of selected outlets (e.g., "All (3)")</li>
 </ul>
+
+<br>
 
 <p><strong>Action Buttons:</strong></p>
 
@@ -415,6 +470,7 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -427,6 +483,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>When customers view a vendor-managed delivery subscription, they see a comprehensive overview of the subscription details:</p>
+
+<br>
 
 <p><strong>Subscription Overview:</strong></p>
 
@@ -455,6 +513,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Meal Plan Preview:</strong></p>
 
 <ul>
@@ -462,6 +522,8 @@
   <li>Options to skip, swap, or move delivery slots</li>
   <li>Delivery time selection for each order</li>
 </ul>
+
+<br>
 
 <p><strong>Action Buttons:</strong></p>
 
@@ -480,6 +542,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### ##Step 8: Payment Breakdown
 
 <div style="display: flex; align-items: flex-start;">
@@ -487,6 +551,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>When customers proceed to payment, they see a simplified pricing structure for vendor-managed deliveries:</p>
+
+<br>
 
 <p><strong>Payment Breakdown:</strong></p>
 
@@ -507,6 +573,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Additional Notes:</strong></p>
 
 <ul>
@@ -514,6 +582,8 @@
   <li>The total amount (e.g., OMR 60.000) is what customers will be charged</li>
   <li>Any additional delivery requests will be charged at the rate set by the vendor (as configured in lead time settings)</li>
 </ul>
+
+<br>
 
 <p><strong>Action Button:</strong></p>
 
@@ -531,6 +601,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### ##Step 9: Delivery Schedule Selection
 
 <div style="display: flex; align-items: flex-start;">
@@ -538,6 +610,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>After proceeding with the purchase, customers can select their preferred delivery schedule based on vendor-defined time slots:</p>
+
+<br>
 
 <p><strong>Schedule Selection Interface:</strong></p>
 
@@ -564,6 +638,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Key Features:</strong></p>
 
 <ul>
@@ -572,6 +648,8 @@
   <li>All deliveries are scheduled within vendor's business hours</li>
   <li>Multiple slots throughout the day for customer convenience</li>
 </ul>
+
+<br>
 
 <p><strong>Action Button:</strong></p>
 
@@ -589,6 +667,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### ##Step 10: Customer Makes Payment
 
 <div style="display: flex; align-items: flex-start;">
@@ -596,6 +676,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>The <strong>Payment Selection</strong> screen allows customers to choose their preferred payment method before proceeding with checkout. This ensures a seamless and secure payment process when purchasing a subscription.</p>
+
+<br>
 
 <p><strong>Key Features:</strong></p>
 
@@ -635,11 +717,13 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### Step 3: Staff Perception
 
-
+<div style="page-break-after: always;"></div>
 
 ### ## Step 1: Staff Order Management
 
@@ -648,6 +732,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>When the lead time expires, staff members receive order details in their application:</p>
+
+<br>
 
 <p><strong>Order Information Display:</strong></p>
 
@@ -675,6 +761,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Product Details:</strong></p>
 
 <ul>
@@ -700,6 +788,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>QR Code Scanner:</strong></p>
 
 <ul>
@@ -718,6 +808,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### ## Step 2: Order Completion Process
 
 <div style="display: flex; align-items: flex-start;">
@@ -725,6 +817,8 @@
 <div style="flex: 2; padding-right: 20px;">
 
 <p>When the vendor's driver reaches the customer's location, the final verification and completion process begins:</p>
+
+<br>
 
 <p><strong>Delivery Verification:</strong></p>
 
@@ -745,6 +839,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Completion Steps:</strong></p>
 
 <ul>
@@ -764,6 +860,8 @@
   </li>
 </ul>
 
+<br>
+
 <p><strong>Post-Delivery Actions:</strong></p>
 
 <ul>
@@ -774,7 +872,5 @@
 </ul>
 
 </div>
-
-
 
 </div>

@@ -36,6 +36,7 @@
 
 </div>
 
+<br>
 
 ---
 
@@ -72,7 +73,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 3: Setting Pickup Location
 
@@ -129,7 +134,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 4: Setting up the products for each days
 
@@ -165,7 +174,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 5: Setting up the validation and add on for the products.
 
@@ -215,7 +228,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 6: Choosing Delivery Type
 
@@ -268,7 +285,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 7: Setting Lead Time and Branch Selection
 
@@ -299,9 +320,13 @@
 
 </div>
 
+<br>
+
 ---
 
 ## Step 2: Customer Perception
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 8: Order Verification Using QR Code
 
@@ -367,7 +392,11 @@
 
 </div>
 
+<br>
+
 ---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 9: Customer View of Pickup Subscription
 
@@ -431,8 +460,14 @@
 
 </div>
 
+<br>
+
 ---
+
 ## Step 3: Staff Gets the Subscription Orders
+
+<div style="page-break-after: always;"></div>
+
 ### ##Step 10: Staff Order Management
 
 <div style="display: flex; align-items: flex-start;">
@@ -499,6 +534,12 @@
 
 </div>
 
+<br>
+
+---
+
+<div style="page-break-after: always;"></div>
+
 ### ##Step 11: Order Status Management
 
 <div style="display: flex; align-items: flex-start;">
@@ -560,6 +601,12 @@
 
 </div>
 
+<br>
+
+---
+
+<div style="page-break-after: always;"></div>
+
 ### ##Step 12: Marking Order as Ready
 
 <div style="display: flex; align-items: flex-start;">
@@ -616,6 +663,12 @@
 </div>
 
 </div>
+
+<br>
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 13: Order Completion Process
 
@@ -681,6 +734,12 @@
 
 </div>
 
+<br>
+
+---
+
+<div style="page-break-after: always;"></div>
+
 ### ##Step 14: Order Completion Confirmation
 
 <div style="display: flex; align-items: flex-start;">
@@ -726,6 +785,12 @@
 </div>
 
 </div>
+
+<br>
+
+---
+
+<div style="page-break-after: always;"></div>
 
 ### ##Step 15: Completed Orders View
 

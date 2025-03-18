@@ -513,6 +513,108 @@ graph TD
     style G fill:#e0f2f1,stroke:#009688,stroke-width:2px
 ```
 
+### Subscription Delivery Options
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>Subscart offers flexible delivery options to accommodate different business models and customer preferences:</p>
+
+<p><strong>Delivery Types Overview:</strong></p>
+
+<p><strong>1. Delivery Service:</strong></p>
+<ul>
+  <li><strong>Implementation:</strong>
+    <ul>
+      <li>Integrated with Subscart's delivery network</li>
+      <li>Automated delivery scheduling</li>
+      <li>Real-time tracking capabilities</li>
+    </ul>
+  </li>
+  <li><strong>Key Features:</strong>
+    <ul>
+      <li>Professional delivery staff</li>
+      <li>Delivery radius configuration</li>
+      <li>Delivery time slots</li>
+      <li>Automated notifications</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<p><strong>2. Pickup Service:</strong></p>
+<ul>
+  <li><strong>Implementation:</strong>
+    <ul>
+      <li>Store location-based collection</li>
+      <li>QR code verification system</li>
+      <li>Flexible pickup windows</li>
+    </ul>
+  </li>
+  <li><strong>Key Features:</strong>
+    <ul>
+      <li>No delivery charges</li>
+      <li>Branch selection options</li>
+      <li>Operating hours display</li>
+      <li>Status tracking system</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<p><strong>3. Combined Pickup & Delivery:</strong></p>
+<ul>
+  <li><strong>Implementation:</strong>
+    <ul>
+      <li>Customer choice per order</li>
+      <li>Dynamic pricing model</li>
+      <li>Unified management system</li>
+    </ul>
+  </li>
+  <li><strong>Key Features:</strong>
+    <ul>
+      <li>Maximum flexibility</li>
+      <li>Choice-based pricing</li>
+      <li>Integrated tracking</li>
+      <li>Unified notifications</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<p><strong>Management Features:</strong></p>
+<ul>
+  <li><strong>For Vendors:</strong>
+    <ul>
+      <li>Easy option selection</li>
+      <li>Pricing configuration</li>
+      <li>Location management</li>
+      <li>Staff coordination tools</li>
+    </ul>
+  </li>
+  <li><strong>For Customers:</strong>
+    <ul>
+      <li>Clear option display</li>
+      <li>Easy switching between modes</li>
+      <li>Transparent pricing</li>
+      <li>Real-time updates</li>
+    </ul>
+  </li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <div style="margin-bottom: 20px;">
+    <img src="delivery_types.png" alt="Delivery Types Overview" style="max-width: 100%;">
+  </div>
+</div>
+
+</div>
 
 <div style="page-break-after: always;"></div>
 

@@ -34,6 +34,7 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -68,7 +69,7 @@
 
 </div>
 
-
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -104,7 +105,9 @@
 
 </div>
 
---- 
+<div style="page-break-after: always;"></div>
+
+---
 
 ### ##Step 4: Setting up the validation and add on for the products.
 
@@ -150,6 +153,8 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 5: Choosing Delivery Type
@@ -192,6 +197,93 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
+---
+
+### ##Delivery Type Options
+
+<div style="display: flex; align-items: flex-start;">
+
+<div style="flex: 2; padding-right: 20px;">
+
+<p>When setting up a subscription, vendors can choose from three delivery options to offer their customers:</p>
+
+<br>
+
+<p><strong>1. Delivery:</strong></p>
+<ul>
+  <li><strong>Features:</strong>
+    <ul>
+      <li>Products delivered directly to customer's address</li>
+      <li>Managed by Subscart's delivery network</li>
+      <li>Includes delivery charges in subscription price</li>
+      <li>Real-time delivery tracking available</li>
+    </ul>
+  </li>
+  <li><strong>Best For:</strong>
+    <ul>
+      <li>Customers who prefer home delivery</li>
+      <li>Businesses without delivery infrastructure</li>
+      <li>Wide delivery radius coverage</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<p><strong>2. Pick-up:</strong></p>
+<ul>
+  <li><strong>Features:</strong>
+    <ul>
+      <li>Customers collect orders from store location</li>
+      <li>No delivery charges</li>
+      <li>Flexible pickup windows</li>
+      <li>QR code verification system</li>
+    </ul>
+  </li>
+  <li><strong>Best For:</strong>
+    <ul>
+      <li>Local customers</li>
+      <li>Cost-conscious subscribers</li>
+      <li>Immediate order collection</li>
+    </ul>
+  </li>
+</ul>
+
+<br>
+
+<p><strong>3. Pick-up & Delivery:</strong></p>
+<ul>
+  <li><strong>Features:</strong>
+    <ul>
+      <li>Customers can choose between pickup or delivery</li>
+      <li>Flexible pricing based on choice</li>
+      <li>Combined benefits of both options</li>
+      <li>Maximum flexibility for customers</li>
+    </ul>
+  </li>
+  <li><strong>Best For:</strong>
+    <ul>
+      <li>Businesses with diverse customer base</li>
+      <li>Flexible service requirements</li>
+      <li>Optimizing customer satisfaction</li>
+    </ul>
+  </li>
+</ul>
+
+</div>
+
+<div style="flex: 1;">
+  <div style="margin-bottom: 20px;">
+    <img src="delivery_type.jpg" alt="Delivery Type Selection" style="max-width: 100%;">
+  </div>
+</div>
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 6: Setting up the lead time
@@ -231,6 +323,8 @@
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -272,6 +366,8 @@
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -316,7 +412,9 @@
 
 </div>
 
---- 
+<div style="page-break-after: always;"></div>
+
+---
 
 ### ##Step 2: Customer Buys Subscription
 
@@ -346,7 +444,7 @@
 <p><strong>Action Button:</strong></p>
 
 <ul>
-  <li><strong>Buy Now (OMR 1.5):</strong> Allows customers to purchase the subscription immediately.</li>
+  <li><strong>Buy Now:</strong> Confirms the selection and proceeds to payment.</li>
 </ul>
 
 </div>
@@ -356,6 +454,8 @@
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -390,9 +490,11 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
-Step 4: Customer Confirm Subscription
+### Step 4: Customer Confirm Subscription
 
 <div style="display: flex; align-items: flex-start;">
 
@@ -429,6 +531,8 @@ Step 4: Customer Confirm Subscription
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -471,6 +575,8 @@ Step 4: Customer Confirm Subscription
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -519,6 +625,8 @@ Step 4: Customer Confirm Subscription
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -573,6 +681,8 @@ Step 4: Customer Confirm Subscription
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -630,6 +740,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 8: Customer Delivery Planning
@@ -670,6 +782,8 @@ Step 4: Customer Confirm Subscription
 </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -727,7 +841,7 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
-
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -782,6 +896,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### Step 4: Delivery Guy, Recieves the order.
@@ -825,6 +941,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 ### ##Step 2: Delivery Guy, Recieves the order.
 
@@ -865,6 +983,8 @@ Step 4: Customer Confirm Subscription
   </div>
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -913,6 +1033,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### ##Step 4: Confirm Delivery
@@ -959,6 +1081,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ### After Delivery
@@ -978,15 +1102,14 @@ Step 4: Customer Confirm Subscription
     <ul>
       <li><strong>Order Information:</strong>
         <ul>
-          <li>Displays the <strong>Order ID</strong> (e.g., "<strong>SCO_1952800684</strong>").</li>
+          <li>Displays the <strong>Order ID</strong> for reference.</li>
           <li>Shows the <strong>date and time</strong> of the order completion.</li>
           <li>Status indicator marked as "<strong>COMPLETED</strong>" in green.</li>
         </ul>
       </li>
       <li><strong>Pickup & Delivery Details:</strong>
         <ul>
-          <li>Shows the <strong>pickup location</strong> (e.g., "<strong>VVG, F4J2+8QP, Sector 26</strong>").</li>
-          <li>Displays the <strong>recipient’s name</strong> and <strong>delivery address</strong> (e.g., "<strong>Aditya Pandey, Manghariya, Basti</strong>").</li>
+          <li>Shows the <strong>pickup location</strong> (e.g., "Aditya Branch 1") and <strong>delivery address</strong>.</li>
         </ul>
       </li>
       <li><strong>User Actions:</strong>
@@ -1005,6 +1128,7 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 ---
 
@@ -1055,6 +1179,8 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ---
 
 ## Step 6: Staff Delivery Dashboard.
@@ -1101,4 +1227,6 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
+---
