@@ -50,7 +50,7 @@
 <ul>
   <li><strong>No. of products per day:</strong> A numeric input field where vendors specify how many products should be delivered daily.</li>
   <li><strong>Days Selection:</strong> A set of circular buttons representing the days of the week. Vendors can select specific days when the product should be delivered.</li>
-  <li><strong>Number of Days:</strong> A numeric input field indicating the total duration (in days) for which the subscription is active.</li>
+  <li><strong>Number of Days:</strong> A numeric input field indicating the number of days one cycle of Subscription Orders.</li>
   <li><strong>Note:</strong> A disclaimer at the bottom states that the vendor cannot edit the number of products per day and the total subscription duration.</li>
 </ul>
 
