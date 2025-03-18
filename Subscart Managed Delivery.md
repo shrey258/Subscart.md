@@ -671,6 +671,63 @@ Step 4: Customer Confirm Subscription
 
 </div>
 
+---
+
+### ##Step 9: Customer Meal Management
+
+<div style="display: flex; flex-direction: column; gap: 40px;">
+  
+  <!-- Buy Delivery -->
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 2; padding-right: 20px;">
+      <h2>Buy Delivery</h2>
+      <p>Customers can select meals for delivery, view estimated arrival times, and complete purchases seamlessly.</p>
+      <ul>
+        <li><strong>Meal Selection:</strong> Detailed descriptions and portion size options.</li>
+        <li><strong>Delivery Options:</strong> Address input, estimated time, and cost visibility.</li>
+        <li><strong>Order Confirmation:</strong> Total price, payment methods, and checkout.</li>
+      </ul>
+    </div>
+    <div style="flex: 1;">
+      <img src="buy_delivery.jpg" alt="Buy Delivery Screen" style="max-width: 100%;">
+    </div>
+  </div>
+
+  <!-- Buy More -->
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 2; padding-right: 20px;">
+      <h2>Buy More</h2>
+      <p>The system suggests additional items before checkout, helping customers enhance their meal experience.</p>
+      <ul>
+        <li><strong>Suggested Items:</strong> Recommended meals based on preferences.</li>
+        <li><strong>Quick Add-to-Cart:</strong> Easy "Add to Order" buttons for faster selection.</li>
+        <li><strong>Order Summary:</strong> Clear cost breakdown before finalizing purchase.</li>
+      </ul>
+    </div>
+    <div style="flex: 1;">
+      <img src="buy_more.jpg" alt="Buy More Screen" style="max-width: 100%;">
+    </div>
+  </div>
+
+  <!-- Delivery Added -->
+  <div style="display: flex; align-items: flex-start;">
+    <div style="flex: 2; padding-right: 20px;">
+      <h2>Delivery Added</h2>
+      <p>After placing an order, customers receive confirmation along with tracking details.</p>
+      <ul>
+        <li><strong>Order Confirmation:</strong> Displays meal name, estimated delivery time, and payment details.</li>
+        <li><strong>Tracking Information:</strong> Real-time order status updates and delivery partner details.</li>
+        <li><strong>Post-Order Actions:</strong> Customers can provide feedback after meal delivery.</li>
+      </ul>
+    </div>
+    <div style="flex: 1;">
+      <img src="delivery_added.jpg" alt="Delivery Added Screen" style="max-width: 100%;">
+    </div>
+  </div>
+
+</div>
+
+
 
 ---
 
